@@ -1,2 +1,22 @@
 # Detecting-Web-Application-Vulnerabilities
-Web Application Vulnerabilities: WHAT TO LOOK OUT FOR
+
+
+## WHAT DO I LOOK OUT FOR?
+
+### AUTHENTICATION
++ JSON Web Token [JWT]
+
+### AUTHORIZATION
+
+### SESSION MANAGEMENT
+
+### INPUT VALIDATION
+
+### CRYPTOGRAPHY
+
+### BUSINESS LOGIC
+
+### CLIENT-SIDE CONTROLS
+
+
+# JSON Web Token [JWT]
